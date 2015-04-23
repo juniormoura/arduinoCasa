@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">arduinoCasa</string>
+
+    <string name="hello_world">Hola Mundo</string>
+    <string name="action_settings">Ajustes</string>
+
+
+    <string name="lbinicio">Sistema de Control Residencial</string>
+    <string name="lbsetor">Sector</string>
+    <string name="lbstatus">Status</string>
+    <string name="btquarto1">Dormitorio 1</string>
+    <string name="btquarto2">Dormitorio 2</string>
+    <string name="btsala">Room</string>
+    <string name="btcozinha">Cocina</string>
+    <string name="btbanheiro">Baño</string>
+    <string name="btgaragem">Garaje</string>
+    <string name="btarcondicionado">Aire Acondicionado</string>
+
+</resources>
